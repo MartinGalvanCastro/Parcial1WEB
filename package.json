@@ -19,5 +19,8 @@
   "dependencies": {
     "eslint-config-prettier": "^8.1.0",
     "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.6.0"
   }
 }
